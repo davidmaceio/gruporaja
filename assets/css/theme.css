@@ -5205,6 +5205,11 @@ fieldset:disabled .btn {
   border-radius: 0.25rem;
 }
 
+.card:hover {
+  background-color: #ECF0F1;
+  box-shadow: none;
+}
+
 .card > hr {
   margin-right: 0;
   margin-left: 0;
