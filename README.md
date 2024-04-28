@@ -2,11 +2,11 @@
 Página inicial com informações básicas sobre as empresas do grupo, com links para cada empresa em separado.
 
 ## FASES DO PROJETO :eyes:
-1. Página inicial com links para as empresas. Coisa simples. (conclusão 02/04/2024) :heavy_check_mark:
-2. Iniciando o projeto /rajasotfware (previsão conclusão 05/04/2024) :construction:
-3. Iniciando o projeto /rajamoveis   (previsão conclusao 08/04/2024) :negative_squared_cross_mark:
-4. Iniciando o projeto /rajasocial   (previsão conclusao 11/04/2024) :negative_squared_cross_mark:
-5. Iniciando o projeto /rajastore   (previsão conclusao 14/04/2024) :negative_squared_cross_mark:
+1. Página inicial com links para as empresas. Coisa simples. (CONCLUÍDO) :heavy_check_mark:
+2. Iniciando o projeto /rajasotfware (previsão conclusão 03/06/2024) :negative_squared_cross_mark:
+3. Iniciando o projeto /rajamoveis   (previsão conclusao 03/06/2024) :negative_squared_cross_mark:
+4. Iniciando o projeto /rajasocial   (previsão conclusao 03/06/2024) :negative_squared_cross_mark:
+5. Iniciando o projeto /rajastore   (previsão conclusao 30/04/2024) :construction:
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ### 1️⃣ rajasotfware:
 Site dedicado a empresa de informática, apresentação de curriculos, apresentção de serviços
